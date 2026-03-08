@@ -102,6 +102,7 @@ def minimax(game)
     end
 end
 
+
 <h2>Program</h2>
 
 ```
