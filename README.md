@@ -101,7 +101,9 @@ def minimax(game)
         return scores[min_score_index]
     end
 end
+
 <h2>Program</h2>
+
 ```
 import time
 
@@ -263,9 +265,7 @@ def main():
 if __name__ == "__main__":
     main()
 ```
-<hr>
 <h2>Output</h2>
 <img width="1919" height="918" alt="image" src="https://github.com/user-attachments/assets/00b1fa17-75ca-48c3-9f3b-ac2b1e93b87d" />
-<hr>
 <h2>Result:</h2>
 <p>Thus,Implementation of  Minimax Search Algorithm for a Simple TIC-TAC-TOE game wasa done successfully.</p>
